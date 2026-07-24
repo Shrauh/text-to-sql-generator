@@ -9,6 +9,7 @@
 
 > A **Conversational SQL Query Generator** that lets users ask questions in plain English and get back validated SQL queries + results — running against a sample college placements database.
 
+Live Demo Link:- https://text-to-sql-generator-5rb7f6t72vlrwjcijs4ajk.streamlit.app/
 ![Screenshot placeholder](https://via.placeholder.com/900x500?text=App+Screenshot+—+Replace+Me)
 
 ---
