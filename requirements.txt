@@ -1,0 +1,5 @@
+streamlit>=1.30.0
+groq>=0.4.0
+pandas>=2.0.0
+faker>=22.0.0
+python-dotenv>=1.0.0
